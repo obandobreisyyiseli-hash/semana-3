@@ -1,0 +1,3 @@
+repositorio:Un repositorio es un espacio o sistema destinado a almacenar, organizar y gestionar información o bienes, ya sea de forma física o digital.
+Commit:s una acción que guarda los cambios realizados en los archivos de un proyecto en el repositorio local.
+Push:es la accion de empujar cambios que hemos evho dese nuestra terminal hacia nuestro repositorio
